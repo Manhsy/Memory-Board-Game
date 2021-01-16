@@ -1,6 +1,6 @@
 /***************************************
 Name: Manh Sy
-Assignment: Project #4
+
 objective: create a matching board game
 ****************************************/
 public class Card{
